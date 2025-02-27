@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/assets/banner.svg" alt="Relaxound Logo Banner" />
-  <h2>Moodist 🌲</h2>
-  <p>Ambient sounds for focus and calm.</p>
+  <h2>Relaxound 🌲</h2>
+  <p>Nature and Ambient Sounds for Relaxation and Calmness.</p>
   <a href="https://relaxound.space/">Visit <strong>Relaxound</strong></a> | <a href="https://buymeacoffee.com/jenray">Buy Me a Coffee</a>
 </div>
 
