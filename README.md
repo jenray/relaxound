@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="/assets/banner.svg" alt="Moodist Logo Banner" />
+  <img src="/assets/banner.svg" alt="Relaxound Logo Banner" />
   <h2>Moodist 🌲</h2>
   <p>Ambient sounds for focus and calm.</p>
-  <a href="https://moodist.app">Visit <strong>Moodist</strong></a> | <a href="https://buymeacoffee.com/remvze">Buy Me a Coffee</a>
+  <a href="https://relaxound.space/">Visit <strong>Relaxound</strong></a> | <a href="https://buymeacoffee.com/jenray">Buy Me a Coffee</a>
 </div>
 
 ## Table of Contents
@@ -16,7 +16,7 @@
 
 ## Features
 
-1. 🎵 Over 75 ambient sounds.
+1. 🎵 Over 78 ambient sounds.
 1. 📝 Persistent sound selection.
 1. ✈️ Sharing sound selections with others.
 1. 🧰 Custom sound presets.
@@ -74,7 +74,7 @@
 
 ⭐ Give a star if you liked this project.
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/remvze) to help me maintain Moodist.
+☕ [Buy Me a Coffee](https://buymeacoffee.com/jenray) to help me maintain Relaxound.
 
 ## License
 
